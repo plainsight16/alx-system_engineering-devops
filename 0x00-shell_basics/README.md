@@ -13,3 +13,4 @@ ls -la . cd .. /boot- list multiple files and their hidden files
 file- displays file type
 cp- copy files from one file to another- to put it simply
 ln- used to create symbolic link
+mv [[:upper:]]* - moves files starting with an uppercase
