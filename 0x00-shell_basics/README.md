@@ -6,3 +6,4 @@ ls -la ..- list files along with the hidden files including those that start wit
 ls -lago .- list files digit only
 mkdir- make directories
 mv- moved file to a specified directory
+rm- removes files
