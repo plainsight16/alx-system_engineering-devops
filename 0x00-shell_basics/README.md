@@ -15,3 +15,4 @@ cp- copy files from one file to another- to put it simply
 ln- used to create symbolic link
 mv [[:upper:]]* - moves files starting with an uppercase
 rm *~ - remove file that end with ~
+ls -ma .- list file seperated with a comma
