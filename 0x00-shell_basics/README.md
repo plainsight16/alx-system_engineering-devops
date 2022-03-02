@@ -8,3 +8,4 @@ mkdir- make directories
 mv- moved file to a specified directory
 rm- removes files
 rm -r - removes dir
+cd ..- move to previous directory
