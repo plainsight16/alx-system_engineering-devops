@@ -5,3 +5,4 @@ ls -l- displays current directory files in long format
 ls -la ..- list files along with the hidden files including those that start with ..
 ls -lago .- list files digit only
 mkdir- make directories
+mv- moved file to a specified directory
