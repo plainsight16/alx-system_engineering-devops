@@ -7,3 +7,4 @@ chmod 700: give execution rights to file pwner
 chmod 774: grants execution to owner and group but read only to others
 chmod 751: execute permsisson for every user
 chmod 007: grants access to everyone except file owner and group
+chmod: change mode of file
