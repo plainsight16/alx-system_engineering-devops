@@ -13,3 +13,4 @@ mkdir -m: set mode for directories while creating them
 chgrp: change group owner
 chmod owner:group: changes owner and group at the same time
 chown -h: changes modes for symbolic links
+chown -from=owner: if only allows change owner
