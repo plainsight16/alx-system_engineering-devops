@@ -11,3 +11,4 @@ chmod: change mode of file
 --reference=olleh filename: to copy mode of a file to another
 mkdir -m: set mode for directories while creating them
 chgrp: change group owner
+chmod owner:group: changes owner and group at the same time
