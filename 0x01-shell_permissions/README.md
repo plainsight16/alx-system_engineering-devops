@@ -10,3 +10,4 @@ chmod 007: grants access to everyone except file owner and group
 chmod: change mode of file
 --reference=olleh filename: to copy mode of a file to another
 mkdir -m: set mode for directories while creating them
+chgrp: change group owner
