@@ -6,3 +6,4 @@ head | tail : dipslays middle content
 ls -t: list new files
 head -n 10: from the top list 10 things
 sort | uniq -u: list unique files
+egrep : finds a patterns in a file and outputs it
